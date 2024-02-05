@@ -1,0 +1,4 @@
+ChatpdfEnv/
+.env
+test/
+service/__pycache__
