@@ -1,0 +1,12 @@
+gpt-3.5-turbo:
+  chunk_size: 1000
+  retrievedDoc: 3
+  
+gpt-4:
+  chunk_size: 1000
+  retrievedDoc: 3
+
+Breeze:
+  chunk_size: 400
+  retrievedDoc: 1
+
