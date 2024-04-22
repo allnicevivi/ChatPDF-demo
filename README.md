@@ -15,3 +15,13 @@ ChatDoc is a simple yet powerful Document Question Answering (QA) system that al
 
    ```bash
    git clone https://github.com/yourusername/ChatDoc.git
+
+2. Navigate to the project directory:
+    
+    ```bash
+    cd ChatDoc
+
+3. Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
